@@ -18,4 +18,4 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,su
 
 
 /* Drupal landing layout overrides */
-.r-system, .r-content-bottom { display: none !important; }
+.r-system { display: none !important; }
