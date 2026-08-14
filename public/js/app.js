@@ -85,7 +85,7 @@
       }
 
       const href = link.getAttribute('href');
-      if (!href) return;
+      if (!href || href.startsWith('#') || link.classList.contains('carousel-control')) return;
 
       // Handle internal SPA navigation
       if (href.startsWith('/') && !href.startsWith('//') && !link.hasAttribute('target') && !href.startsWith('/ajaxy/')) {
@@ -503,11 +503,33 @@
       if (indicators[current]) indicators[current].classList.add('active');
     }
 
-    if (prevBtn) prevBtn.onclick = () => goTo(current - 1);
-    if (nextBtn) nextBtn.onclick = () => goTo(current + 1);
+    if (prevBtn) {
+      prevBtn.onclick = (e) => {
+        if (e) {
+          e.preventDefault();
+          e.stopPropagation();
+        }
+        goTo(current - 1);
+      };
+    }
+    if (nextBtn) {
+      nextBtn.onclick = (e) => {
+        if (e) {
+          e.preventDefault();
+          e.stopPropagation();
+        }
+        goTo(current + 1);
+      };
+    }
 
     indicators.forEach((ind, i) => {
-      ind.onclick = () => goTo(i);
+      ind.onclick = (e) => {
+        if (e) {
+          e.preventDefault();
+          e.stopPropagation();
+        }
+        goTo(i);
+      };
     });
 
     if (App.carouselTimer) clearInterval(App.carouselTimer);
