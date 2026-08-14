@@ -1,0 +1,91 @@
+<div class="full-width">
+    <div class="container">
+        <div class="r-full-width">
+          <!--noindex-->
+  <section class="pp-front-slideshow col-12 hidden-sm" >
+
+    
+        
+    
+    
+    <div id="slideshow" class="carousel slide">
+  <!-- Indicators -->
+  <ol class="carousel-indicators"><li data-target="#slideshow" data-slide-to="0" class="active"></li>
+<li data-target="#slideshow" data-slide-to="1" class=""></li>
+<li data-target="#slideshow" data-slide-to="2" class=""></li>
+</ol>
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active"><div class="slide-default-promo bg-bluemid">Понимание деталей,<br>приходит с опытом.<br><a href="/ajaxy/menu-ajax/nojs/products?nojs_path=home" class="use-ajax">Каталог деталей</a></div><img class="image" src="/assets/images/slide_default.jpg"></div><div class="item"><div class="r-row"><div class="col-sm-12 col-lg-7 text-wrapper"><big>У нас есть все для конвейера</big><p>“Система Снабжения” - поставщик промышленного оборудования с десятилетним опытом работы. Мы предлагаем надежное оборудование по приемлемым ценам.</p>
+<p>Наши клиенты - частные заказчики, представители малого, среднего и крупного бизнеса. Мы гордимся доверием таких компаний, как “Газпром”, “Татнефть”, “УЭХК”.</p><div class="r-row images"><a href="/catalog/konveyernye-cepi-i-transporternye-lenty/eurochain" class="col-3 image"><img class="img-responsive" src="/assets/images/eurochain.png?itok=a6sOST8_" width="125" height="44" alt="" title="" /></a><a href="/catalog/konveyernye-cepi-i-transporternye-lenty/iwis" class="col-3 image"><img class="img-responsive" src="/assets/images/iwis.png?itok=hBqHFI82" width="125" height="44" alt="" title="" /></a><a href="/catalog/konveyernye-cepi-i-transporternye-lenty/marbett" class="col-3 image"><img class="img-responsive" src="/assets/images/marbett.png?itok=mAQuiB_z" width="125" height="44" alt="" title="" /></a><a href="/catalog/konveyernye-cepi-i-transporternye-lenty/habasit" class="col-3 image"><img class="img-responsive" src="/assets/images/habasit-logo.png?itok=c9MBLne5" width="125" height="44" alt="" title="" /></a></div><div class="category-link"><a href="/catalog/konveyernye-cepi-i-lenty" class="btn btn-default">Каталог: Конвейерные цепи и ленты</a></div></div><div class="visible-lg col-lg-5 image-wrapper"><img class="img-responsive" src="/assets/images/conveyor.gif" width="427" height="350" alt="" title="" /></div></div></div><div class="item"><div class="r-row"><div class="col-sm-12 col-lg-7 text-wrapper"><big>Двигатели любой мощности</big><p>“Система Снабжения” - поставщик промышленного оборудования с десятилетним опытом работы. Мы предлагаем надежное оборудование по приемлемым ценам.</p>
+<p>Наши клиенты - частные заказчики, представители малого, среднего и крупного бизнеса. Мы гордимся доверием таких компаний, как “Газпром”, “Татнефть”, “УЭХК”.</p><div class="r-row images"><a href="/catalog/elektrodvigateli/cantoni" class="col-3 image"><img class="img-responsive" src="/assets/images/cantoni.png?itok=tQ_cgS-M" width="125" height="39" alt="" title="" /></a><a href="/catalog/elektrodvigateli/electro-adda" class="col-3 image"><img class="img-responsive" src="/assets/images/electro_adda_big_0.png?itok=sRjThvwp" width="125" height="31" alt="" title="" /></a><a href="/catalog/elektrodvigateli/georgeii-kobold" class="col-3 image"><img class="img-responsive" src="/assets/images/georgii-kobold.png?itok=tBSy8moe" width="125" height="24" alt="" title="" /></a><a href="/catalog/elektrodvigateli/shagovye-dvigateli-phytron" class="col-3 image"><img class="img-responsive" src="/assets/images/phytron.png?itok=j4k8YGsV" width="125" height="39" alt="" title="" /></a></div><div class="category-link"><a href="/catalog/elektrodvigateli" class="btn btn-default">Каталог: Электродвигатели</a></div></div><div class="visible-lg col-lg-5 image-wrapper"><img class="img-responsive" src="/assets/images/images22_m41.png" width="311" height="307" alt="" title="" /></div></div></div>  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#slideshow" data-slide="prev">
+    <span class="icon-prev icon-inverse"></span>
+  </a>
+  <a class="right carousel-control" href="#slideshow" data-slide="next">
+    <span class="icon-next icon-inverse"></span>
+  </a>
+</div>
+
+    
+      </section>
+<!--/noindex-->        </div>
+    </div>
+  </div>
+
+<div class="container" >
+
+  <div class="container">
+          <div class="r-top">
+        <!--noindex-->
+  <section class="pp-front-catalog" >
+
+    
+        
+    
+    
+    <h1 class="h5 text-center">Поставка оборудования, запасных частей и комплектующих</h1><div class="pp-product-catalog col-12 col-12"><ul class="r-row"><li class="col-lg-4 col-12 term-492"><a href="/catalog/promyshlennoe-oborudovanie" class="icon-term-492 icon-inverse"></a><div class="wrapper"><big><a href="/catalog/promyshlennoe-oborudovanie">Промышленное оборудование</a></big><a href="/catalog/gidravlika">Гидравлика</a>, <a href="/catalog/nasosy">Насосы</a>, <a href="/catalog/pnevmatika">Пневматика и пневмоцилиндры</a>, <a href="/catalog/klapany">Клапаны</a>, <a href="/catalog/filtry">Фильтры</a>, <a href="/catalog/kompressory">Компрессоры</a>, <a href="/catalog/teploobmenniki">Теплообменники</a>, <a href="/catalog/vibratory">Вибраторы</a></div></li>
+<li class="col-lg-4 col-12 term-3"><a href="/catalog/elektrodvigateli" class="icon-term-3 icon-inverse"></a><div class="wrapper"><big><a href="/catalog/elektrodvigateli">Электродвигатели</a></big><a href="/catalog/motor-reduktor">Мотор-редуктор</a>, <a href="/catalog/privody">Приводы</a>, <a href="/catalog/reduktory">Редукторы</a>, <a href="/catalog/elektrotormoz">Электротормоз</a>, <a href="/catalog/chastotnye-preobrazovateli">Частотные преобразователи</a></div></li>
+<li class="col-lg-4 col-12 term-12"><a href="/catalog/promyshlennaya-avtomatika" class="icon-term-12 icon-inverse"></a><div class="wrapper"><big><a href="/catalog/promyshlennaya-avtomatika">Промышленная автоматика</a></big><a href="/catalog/enkodery">Энкодеры</a>, <a href="/catalog/izmeritelnaya-tehnika">Измерительная техника</a>, <a href="/catalog/registriruyushchie-pribory">Регистрирующие приборы</a>, <a href="/catalog/rele-i-datchiki">Реле и датчики</a></div></li>
+<li class="clearfix"></li>
+<li class="col-lg-4 col-12 term-5"><a href="/catalog/spectehnika-i-zapchasti" class="icon-term-5 icon-inverse"></a><div class="wrapper"><big><a href="/catalog/spectehnika-i-zapchasti">Спецтехника и запчасти</a></big><a href="/catalog/selskohozyaystvennaya-tehnika">Сельскохозяйственная техника</a>, <a href="/catalog/stroitelnaya-tehnika">Строительная техника</a>, <a href="/catalog/podemnye-ustroystva">Подъемные устройства</a>, <a href="/catalog/ellap">Ellamp</a>, <a href="/catalog/spal">Spal</a></div></li>
+<li class="col-lg-4 col-12 term-7"><a href="/catalog/zapasnye-chasti-i-detali" class="icon-term-7 icon-inverse"></a><div class="wrapper"><big><a href="/catalog/zapasnye-chasti-i-detali">Запасные части и детали</a></big><a href="/catalog/podshipniki">Подшипники</a>, <a href="/catalog/kabeli-i-provodniki">Кабели и проводники</a>, <a href="/catalog/materialy">Материалы</a>, <a href="/catalog/remni">Ремни</a>, <a href="/catalog/roliki">Ролики</a>, <a href="/catalog/krany">Краны</a>, <a href="/catalog/konveyernye-cepi-i-lenty">Конвейерные цепи и ленты</a></div></li>
+<li class="col-lg-4 col-12 term-8"><a href="/catalog/prochaya-tehnika" class="icon-term-8 icon-inverse"></a><div class="wrapper"><big><a href="/catalog/prochaya-tehnika">Прочая техника</a></big><a href="/catalog/umnyy-dom">Умный дом</a>, <a href="/catalog/energetika">Энергетика</a>, <a href="/catalog/sistemy-bezopasnosti">Системы безопасности</a>, <a href="/catalog/medicinskaya-tehnika">Медицинская техника</a>, <a href="/catalog/stanki-i-obrabotka-materialov">Станки и обработка материалов</a></div></li>
+<li class="clearfix"></li>
+</ul></div>
+    
+      </section>
+<!--/noindex-->      </div>
+    
+          <div class="r-center-main">
+        
+  <section class="pp-promo-why-we-text col-12 col-sm-4 col-lg-3" >
+
+    
+              <h2 class="pane-title">Почему мы?</h2>
+    
+    
+    
+    <ul><li>качественное оборудование при выгодной стоимости;</li>
+<li>профессиональная поддержка при подборе оборудования и запчастей;</li>
+<li>подбор оборудования по техническому заданию;</li>
+<li>доставка грузов в любую точку РФ;</li>
+<li>соблюдение гарантийных обязательства поставщиков.</li>
+</ul>
+    
+      </section>
+<div class="panel-separator"></div>
+  <section class="pp-promo-clients col-12 col-sm-8 col-lg-9" >
+
+    
+        
+    
+    
+    <div class="r-row"><h2 class="col-12">Для каждого клиента</h2><div class="col-12 col-sm-4 col-lg-4"><img class="img-responsive" src="/assets/images/clients-manager.jpg"><h3>Персональный менеджер</h3><p>У нас нет путаницы, у нас есть персональный менеджер для каждого вашего заказа.</p></div><div class="col-12 col-sm-4 col-lg-4"><img class="img-responsive" src="/assets/images/clients-shipping.jpg"><h3>Доставка до двери</h3><p>Мы контролируем перевозку вашего груза с конвейера производителя до вашего адреса доставки.</p></div><div class="col-12 col-sm-4 col-lg-4"><img class="img-responsive" src="/assets/images/clients-online.jpg"><h3>Контроль заказа онлайн</h3><p>Статус исполнения заказа, весь документооборот и история сделки - всегда в вашем личном кабинете.</p></div></div>
+    
+      </section>
+      </div>
+    
+      </div>
